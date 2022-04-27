@@ -1,4 +1,4 @@
-# Cool Shoes
+## Cool Shoes
 ```
 Cool Shoes App, with a frontend built in React & Redux and a backend built in Django API.
 ```
@@ -12,7 +12,7 @@ Check out [API LIVE DEMO](https://backend-coolshoes.herokuapp.com/) here!!
 ## How to Install
 1. Git Clone
 ```
-git clone 
+git clone https://github.com/scan0102/coolshoes.git
 ```
 2. Backend setting
 ```
